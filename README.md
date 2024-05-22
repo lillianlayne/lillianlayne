@@ -6,7 +6,7 @@ Currently, I'm lending my skills as a Lead Developer and Designer on various pro
 ---
 ###
 
-| [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Lillian-Benton)        | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](portfolio)          |   |
+| [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/Lillian-Benton)        | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](portfolio)(itslillianlayne.com)         |   |
 | ------------- |:-------------:| -----:|
 | `codePen`      | `Portfolio` |  |
 
